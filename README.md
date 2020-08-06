@@ -1,1 +1,2 @@
-# INF331
+# Equipe
+	*Jonathan Felipe Xavier - MG11370577
