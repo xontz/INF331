@@ -20,36 +20,17 @@
 
 # Projeto de Composição de Componentes para Recomendação
 
-> Imagem (`PNG`) do diagrama de componentes (veja exemplos abaixo).
+![Componentes para recomendacao](images/productRecommendation.png)
 
 # Projeto de Composição de Componentes para Pedido
 
 ## Diagrama de Componentes
 
-> Imagem (`PNG`) do diagrama de componentes do pedido de um produto (veja exemplos abaixo).
+![Componentes para pedidos](images/shoppingPipeline.png)
 
 ## Diagrama de Interfaces
-
-> Imagem (`PNG`) do detalhamento de interfaces referentes aos componentes.
+interfaceDetails
+![Diagrama de interfaces](images/interfaceDetails.png)
 
 <hr>
 
-## `Exemplos de Diagramas de Componentes`
-
-### `Exemplo 1`
-
-Este é o diagrama compondo componentes para análise:
-
-![Diagrama Analise](images/diagrama-componentes-analise.png)
-
-### `Exemplo 2`
-
-Este é um diagrama inicial do projeto de jogos:
-
-![Diagrama Jogos](images/diagrama-componentes-jogos.png)
-
-### `Exemplo do Diagrama de Interfaces`
-
-Interfaces associadas a esse componente:
-
-![Diagrama Interfaces](diagrama-interfaces.png)
