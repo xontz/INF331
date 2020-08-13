@@ -1,0 +1,37 @@
+<dcc-trigger label="Mundo"
+             action="noticia/mundo/politica"
+             value="Trump has gone mad!!">
+</dcc-trigger>
+
+<dcc-trigger label="Brasil P"
+             action="noticia/brasil/politica"
+             value="Bolsonaro tenta oferecer cloroquina para Ema, que por ser mais inteligente que ele, sai correndo.">
+</dcc-trigger>
+
+<dcc-trigger label="Brasil E"
+             action="noticia/brasil/esporte"
+             value="Cruzeiro tenta, mas continua na segunda divisão">
+</dcc-trigger>
+
+<dcc-trigger label="Bahia"
+             action="noticia/bahia/esporte"
+             value="Jogadores do Bahia dizem preferir ficar na rede do que voltar aos campos após quarentena.">
+</dcc-trigger>
+
+<dcc-lively-talk duration="0s"
+                 character="doctor"
+                 speech="">
+  <subscribe-dcc topic="#/politica"></subscribe-dcc>
+</dcc-lively-talk>
+
+<dcc-lively-talk duration="0s"
+                 character="nurse"
+                 speech="">
+  <subscribe-dcc topic="noticia/brasil/#"></subscribe-dcc>
+</dcc-lively-talk>
+
+<dcc-lively-talk duration="0s"
+                 character="patient"
+                 speech="">
+  <subscribe-dcc topic="noticia/#"></subscribe-dcc>
+</dcc-lively-talk>
