@@ -1,6 +1,6 @@
 ## Tarefa sobre catálogo de componentes
 
-> [Link para Notebook](notebook/components-01-catalog.ipynb)
+> [Link para Notebook](notebooks/components-01-catalog.ipynb)
 
 ## Tarefa Web Components 1
 
